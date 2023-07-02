@@ -1,4 +1,4 @@
-# Intellij-Idea-Ultimate
+# Hibernate-bbdd-h2
 
-Repositorio para Intellij-Idea-Ultimate
+Configuración de un proyecto Hibernate con la bbdd h2 en memoria y en archivo utilizando XML para la configuración
 
