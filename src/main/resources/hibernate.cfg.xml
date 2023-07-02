@@ -30,7 +30,7 @@
         <!-- Set the current session context -->
         <property name="current_session_context_class">thread</property>
         <!-- Disable the second-level cache -->
-        <property name="cache.provider_class">org.hibernate.cache.NoCacheProvider</property>
+<!--        <property name="cache.provider_class">org.hibernate.cache.NoCacheProvider</property>-->
         <!-- Drop and re-create the database schema on startup -->
         <property name="hbm2ddl.auto">update</property>
 <!--        <property name="hbm2ddl.auto">create-drop</property>-->
